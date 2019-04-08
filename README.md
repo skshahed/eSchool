@@ -1,5 +1,4 @@
-# eSchool
-Microservice based eSchool Solution
+# eSchool - Microservice and Containers based open source School Administration Software
 
 ## Linux Build Status for 'master' branch
 
